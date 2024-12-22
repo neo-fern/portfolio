@@ -1,3 +1,3 @@
 # portfolio
 
-#This is myportfolio website
+# This is myportfolio website, resume included too
